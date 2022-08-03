@@ -8,5 +8,18 @@ tambien vimos estructuras de control y el ciclo (for,white,do white) para el des
 
 aqui les dejo algunos ejemplos de lo que vimos en clase
 
-imagen del juego BlackJack
+Imagen del juego BlackJack
+
 ![Captura de pantalla 2022-08-03 114828](https://user-images.githubusercontent.com/57981697/182605559-9a0251ef-e9ae-42cb-a9cc-4291442de379.png)
+
+Estructura HTML
+
+![Captura de pantalla 2022-08-03 114954](https://user-images.githubusercontent.com/57981697/182607795-6bcf205f-a8b5-4a0d-af44-68310f782c6b.png)
+
+Libreria necesaria para el juego BlackJack
+
+![Captura de pantalla 2022-08-03 122944](https://user-images.githubusercontent.com/57981697/182608114-7a5dc570-264b-4c2f-9360-ff97fdcb7fcd.png)
+
+## Authors
+
+- [@cbax-mora](https://github.com/cbax-mora)
