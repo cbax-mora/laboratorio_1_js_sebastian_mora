@@ -24,6 +24,7 @@ Imagen del codigo JavaScript del juego BLackJack
 
 ![Captura de pantalla 2022-08-03 123544](https://user-images.githubusercontent.com/57981697/182610477-bff173ce-4ea4-46fa-a1af-8156bad3f043.png)
 
+enlace [BlackJack](http://127.0.0.1:5500/src/index.html)
 
 ## Authors
 
