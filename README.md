@@ -2,7 +2,7 @@
 
 en este clase vimos diferentes metodos ,tipos de datos, los diferentes metodos que tiene un dato tipo string 
 tambien pudimos ver la libreria undercode.js que fue de utilidad para que nuestro juego funcionara 
-tambien instalamos nodemon para tener mejor manerjo y rapidez a la hora de interactuar con la consola desde nodeJS
+tambien instalamos nodemon para tener mejor manejo y rapidez a la hora de interactuar con la consola desde nodeJS
 
 tambien vimos estructuras de control y el ciclo (for,white,do white) para el desarrollo de este proyecto
 
@@ -19,6 +19,11 @@ Estructura HTML
 Libreria necesaria para el juego BlackJack
 
 ![Captura de pantalla 2022-08-03 122944](https://user-images.githubusercontent.com/57981697/182608114-7a5dc570-264b-4c2f-9360-ff97fdcb7fcd.png)
+
+Imagen del codigo JavaScript del juego BLackJack
+
+![Captura de pantalla 2022-08-03 123544](https://user-images.githubusercontent.com/57981697/182610477-bff173ce-4ea4-46fa-a1af-8156bad3f043.png)
+
 
 ## Authors
 
